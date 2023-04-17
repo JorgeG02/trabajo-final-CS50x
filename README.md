@@ -2,3 +2,5 @@
 Proyecto del trabajo final del curso CS50
 
 Se añade esta línea de texto en el repositorio remoto para probar el comando push y actualizar el archivo modificado en remoto en el repositorio local
+
+Ahora se añade otra línea para ver el funcionamiento del comando fetch.
